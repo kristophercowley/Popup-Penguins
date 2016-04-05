@@ -1,0 +1,109 @@
+body {
+    background-color: #996633;
+}
+#gameholder{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title{
+    width: 600px;
+    height: 150;
+    background-image: ('');
+}
+.mole1{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole2{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole3{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole4{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole5{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole6{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole7{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole8{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.badger{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('images/hole200.jpg')
+}
+.mole1:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole2:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole3:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole4:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole4:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole5:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole6:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole7:hover{
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.mole8:hover{
+    
+    background-image: url('images/mole200.jpg');
+    cursor: pointer;
+}
+.badger:hover{
+     
+    background-image: url('images/badger200.jpg');
+    cursor: pointer;
+}
